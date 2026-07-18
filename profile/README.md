@@ -1,8 +1,8 @@
 # Welcome to BLXCKBOOK Labs 🧪
 
-> **JEXXXUS** — AI-Powered Date & Relationship Management SaaS
+> **JEXXXUS**—AI-Powered Date & Relationship Management SaaS
 
-BLXCKBOOK Labs is the home of **JEXXXUS** — a private AI-powered relationship memory vault across web, mobile, desktop, and CLI.
+BLXCKBOOK Labs is the home of **JEXXXUS**—a private AI-powered relationship memory vault across web, mobile, desktop, and CLI.
 
 ---
 

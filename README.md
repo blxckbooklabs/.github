@@ -12,7 +12,7 @@ This repository contains the public-facing profile README displayed on the [BLXC
 
 ## 📚 About BLXCKBOOK Labs
 
-Building **JEXXXUS** — a private AI-powered relationship memory vault across web, mobile, desktop, and CLI.
+Building **JEXXXUS**—a private AI-powered relationship memory vault across web, mobile, desktop, and CLI.
 
 ---
 
