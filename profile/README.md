@@ -1,4 +1,4 @@
-# Welcome to BLXCKBOOK Labs �
+# Welcome to BLXCKBOOK Labs 🧪
 
 > **JEXXXUS**—a full-stack, multi-repo AI-first ecosystem building the future of intelligent applications.
 
