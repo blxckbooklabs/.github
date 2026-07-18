@@ -6,15 +6,16 @@ BLXCKBOOK Labs is the home of **JEXXXUS**, a sophisticated platform ecosystem co
 
 ---
 
-## 📦 Core Projects
+## 📦 Public Projects
 
-| Repository | Purpose | Stack |
-|------------|---------|-------|
-| **[blxckbook.jexxx.us](https://github.com/blxckbooklabs/blxckbook-core)** | Core platform engine | React 18 + Vite + Tailwind |
-| **[dxsh.blxckbook.jexxx.us](https://github.com/blxckbooklabs/dxsh-admin)** | Admin control plane | React 19 + Radix UI + GSAP |
-| **[nxt.jexxx.us](https://github.com/blxckbooklabs/nxt-ai-engine)** | AI persona engine | React + Gemini + ChromaDB |
-| **[blxckbook-mobile](https://github.com/blxckbooklabs/blxckbook-mobile)** | Pocket app (iOS/Android) | React Native + Expo + Nativewind |
-| **[jexxx.us-cli](https://github.com/blxckbooklabs/jexxx-cli)** | Headless executor | TypeScript + Commander |
+| Repository | Purpose | Language |
+|------------|---------|----------|
+| **[blxckchat.jexxx.us](https://github.com/blxckbooklabs/blxckchat.jexxx.us)** | BYOK AI chat—Kingdom Agent, multi-provider streaming | HTML |
+| **[jexxx.us-api](https://github.com/blxckbooklabs/jexxx.us-api)** | JEXXXUS API gateway & services | TypeScript |
+| **[jexxx.us-cli](https://github.com/blxckbooklabs/jexxx.us-cli)** | Native CLI agent tool for JEXXXUS | TypeScript |
+| **[jexxx.us-desktop](https://github.com/blxckbooklabs/jexxx.us-desktop)** | Desktop application | TypeScript |
+| **[mini.blxckchat.jexxx.us](https://github.com/blxckbooklabs/mini.blxckchat.jexxx.us)** | Embedded chat pop-out widget | TypeScript |
+| **[bible-obsidian](https://github.com/blxckbooklabs/bible-obsidian)** | Bible collaboration project | JavaScript |
 
 ---
 
