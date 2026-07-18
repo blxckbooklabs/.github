@@ -12,7 +12,7 @@ This repository contains the public-facing profile README displayed on the [BLXC
 
 ## 📚 About BLXCKBOOK Labs
 
-Building **JEXXXUS** — an AI-Powered Date & Relationship Management SaaS. A private, encrypted personal relationship memory vault and platform for managing dating/relationship context, history, and insights — spanning web, mobile, CLI, API, and desktop.
+Building **JEXXXUS** — a private AI-powered relationship memory vault across web, mobile, desktop, and CLI.
 
 ---
 

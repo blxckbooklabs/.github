@@ -2,7 +2,7 @@
 
 > **JEXXXUS** — AI-Powered Date & Relationship Management SaaS
 
-BLXCKBOOK Labs is the home of **JEXXXUS**, a private, encrypted personal relationship memory vault and AI-powered platform for managing dating/relationship context, history, and insights. The ecosystem spans web, mobile, CLI, API gateway, and desktop applications — all unified under a single authentication and data layer.
+BLXCKBOOK Labs is the home of **JEXXXUS** — a private AI-powered relationship memory vault across web, mobile, desktop, and CLI.
 
 ---
 
