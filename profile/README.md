@@ -1,8 +1,8 @@
 # Welcome to BLXCKBOOK Labs 🧪
 
-> **JEXXXUS**—a full-stack, multi-repo AI-first ecosystem building the future of intelligent applications.
+> **JEXXXUS** — AI-Powered Date & Relationship Management SaaS
 
-BLXCKBOOK Labs is the home of **JEXXXUS**, a sophisticated platform ecosystem combining elegant design, production-grade engineering, and cutting-edge AI integration. We're building tools that matter—from core infrastructure to consumer-facing applications.
+BLXCKBOOK Labs is the home of **JEXXXUS**, a private, encrypted personal relationship memory vault and AI-powered platform for managing dating/relationship context, history, and insights. The ecosystem spans web, mobile, CLI, API gateway, and desktop applications — all unified under a single authentication and data layer.
 
 ---
 
